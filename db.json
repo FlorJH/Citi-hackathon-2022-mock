@@ -10,13 +10,6 @@
                     "numero_cuenta": "1234456895653256",
                     "saldo": 5055.65,
                     "img_tarjeta": "https://www.banamex.com/es/personas/tarjetas-credito/tarjeta-platinum/img/platinum/tarjeta-de-credito-platinum-citibanamex.png"
-                },
-                {
-                    "id": 65,
-                    "tipoTarjeta": "Cuenta Priority",
-                    "numero_cuenta": "9856789532659841",
-                    "saldo": 1525.95,
-                    "img_tarjeta": "https://imagenes.razon.com.mx/files/og_thumbnail/files/fp/uploads/2021/08/30/612d07794b334.r_d.612-229-0.jpeg"
                 }
             ],
             "beneficiarios": [
