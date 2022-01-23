@@ -46,7 +46,7 @@
                 },
                 {
                     "id": 85,
-                    "tipoTarjeta": "Cuenta Priority",
+                    "tipo_tarjeta": "Cuenta Priority",
                     "numero_cuenta": "9510852634598565",
                     "saldo": 9855.50,
                     "img_tarjeta": "https://imagenes.razon.com.mx/files/og_thumbnail/files/fp/uploads/2021/08/30/612d07794b334.r_d.612-229-0.jpeg"
