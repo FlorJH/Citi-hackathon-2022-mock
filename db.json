@@ -15,7 +15,7 @@
             "beneficiarios": [
                 {
                     "id": 9856,
-                    "nombre_beneficiario": "Lavoratoria",
+                    "nombre_beneficiario": "Laboratoria",
                     "numero_cuenta": "9856625406547665"
                 },
                 {
@@ -52,7 +52,7 @@
             "beneficiarios": [
                 {
                     "id": 10856,
-                    "nombre_beneficiario": "Lavoratoria",
+                    "nombre_beneficiario": "Laboratoria",
                     "numero_cuenta": "9856654778549665"
                 },
                 {
@@ -84,7 +84,7 @@
         {
             "id": 10856,
             "id_usurio":1230,
-            "nombre_beneficiario": "Lavoratoria",
+            "nombre_beneficiario": "Laboratoria",
             "numero_cuenta": "9856654778549665"
         },
         {
