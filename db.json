@@ -28,9 +28,6 @@
                     "nombre_beneficiario": "Flor Angelica Jardinez",
                     "numero_cuenta": "1590098554126325"
                 }
-            ],
-            "transferencias": [
-                {}
             ]
         },
         {
@@ -68,10 +65,19 @@
                     "nombre_beneficiario": "Flor Angelica Jardinez",
                     "numero_cuenta": "1236510654112656"
                 }
-            ],
-            "transferencias": [
-                {}
             ]
+        }
+       
+    ],
+     "transferencias": [
+        {
+            "id":9999,
+            "beneficiario":"Laboratoria",
+            "concepto":"Pago mensual",
+            "importe":"5262",
+            "fecha":"",
+            "id_cliente_origen":1230,
+            "tarjeta_origen":"Cuenta Perfile Ejecutivo"
         }
     ]
 }
