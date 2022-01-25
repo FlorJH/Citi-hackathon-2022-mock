@@ -11,23 +11,6 @@
                     "saldo": 5055.65,
                     "img_tarjeta": "https://www.banamex.com/es/personas/tarjetas-credito/tarjeta-platinum/img/platinum/tarjeta-de-credito-platinum-citibanamex.png"
                 }
-            ],
-            "beneficiarios": [
-                {
-                    "id": 9856,
-                    "nombre_beneficiario": "Laboratoria",
-                    "numero_cuenta": "9856625406547665"
-                },
-                {
-                    "id": 9857,
-                    "nombre_beneficiario": "Las tres escobas",
-                    "numero_cuenta": "9510159035708569"
-                },
-                {
-                    "id": 9858,
-                    "nombre_beneficiario": "Flor Angelica Jardinez",
-                    "numero_cuenta": "1590098554126325"
-                }
             ]
         },
         {
@@ -48,23 +31,6 @@
                     "saldo": 9855.50,
                     "img_tarjeta": "https://imagenes.razon.com.mx/files/og_thumbnail/files/fp/uploads/2021/08/30/612d07794b334.r_d.612-229-0.jpeg"
                 }
-            ],
-            "beneficiarios": [
-                {
-                    "id": 10856,
-                    "nombre_beneficiario": "Laboratoria",
-                    "numero_cuenta": "9856654778549665"
-                },
-                {
-                    "id": 1563,
-                    "nombre_beneficiario": "Las tres escobas",
-                    "numero_cuenta": "9856325696523652"
-                },
-                {
-                    "id": 12356,
-                    "nombre_beneficiario": "Flor Angelica Jardinez",
-                    "numero_cuenta": "1236510654112656"
-                }
             ]
         }
        
@@ -78,26 +44,6 @@
             "fecha":"",
             "id_cliente_origen":1230,
             "tarjeta_origen":"Cuenta Perfile Ejecutivo"
-        }
-    ],
-    "beneficiarios": [
-        {
-            "id": 10856,
-            "id_usurio":1230,
-            "nombre_beneficiario": "Laboratoria",
-            "numero_cuenta": "9856654778549665"
-        },
-        {
-            "id": 1563,
-            "id_usurio":1230,
-            "nombre_beneficiario": "Las tres escobas",
-            "numero_cuenta": "9856325696523652"
-        },
-        {
-            "id": 12356,
-            "id_usurio":1230,
-            "nombre_beneficiario": "Flor Angelica Jardinez",
-            "numero_cuenta": "1236510654112656"
         }
     ]
 }
