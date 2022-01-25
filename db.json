@@ -46,7 +46,7 @@
             "tarjeta_origen":"Cuenta Perfile Ejecutivo"
         }
     ],
-    [
+    "":[
   {
     "id": 10856,
     "id_usurio": 1230,
@@ -66,7 +66,7 @@
     "numero_cuenta": "1236510654112656"
   }
 ],
-[
+"beneficiarios": [
     {
       "id": 10856,
       "id_usurio": 1230,
