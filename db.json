@@ -6,7 +6,7 @@
             "tarjetas": [
                 {
                     "id": 456,
-                    "tipo_tarjeta": "Cuenta Perfile Ejecutivo",
+                    "tipo_tarjeta": "Cuenta Perfiles Ejecutivo",
                     "numero_cuenta": "1234456895653256",
                     "saldo": 5055.65,
                     "img_tarjeta": "https://www.banamex.com/es/personas/tarjetas-credito/tarjeta-platinum/img/platinum/tarjeta-de-credito-platinum-citibanamex.png"
