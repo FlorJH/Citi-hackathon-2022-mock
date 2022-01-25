@@ -45,5 +45,45 @@
             "id_cliente_origen":1230,
             "tarjeta_origen":"Cuenta Perfile Ejecutivo"
         }
-    ]
+    ],
+    [
+  {
+    "id": 10856,
+    "id_usurio": 1230,
+    "nombre_beneficiario": "Laboratoria",
+    "numero_cuenta": "9856654778549665"
+  },
+  {
+    "id": 1563,
+    "id_usurio": 1230,
+    "nombre_beneficiario": "Las tres escobas",
+    "numero_cuenta": "9856325696523652"
+  },
+  {
+    "id": 12356,
+    "id_usurio": 1230,
+    "nombre_beneficiario": "Flor Angelica Jardinez",
+    "numero_cuenta": "1236510654112656"
+  }
+],
+[
+    {
+      "id": 10856,
+      "id_usurio": 1230,
+      "nombre_beneficiario": "Laboratoria",
+      "numero_cuenta": "9856654778549665"
+    },
+    {
+      "id": 1563,
+      "id_usurio": 1230,
+      "nombre_beneficiario": "Las tres escobas",
+      "numero_cuenta": "9856325696523652"
+    },
+    {
+      "id": 12356,
+      "id_usurio": 1230,
+      "nombre_beneficiario": "Flor Angelica Jardinez",
+      "numero_cuenta": "1236510654112656"
+    }
+  ]
 }
